@@ -17,5 +17,6 @@ If the installation was successful, you should be able to run the following comm
 
 
 ## Running the project
+    $ npm install
     $ npm start
 You should see the project running at [http://localhost:3000](http://localhost:3000)
